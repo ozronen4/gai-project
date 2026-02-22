@@ -38,7 +38,7 @@
 
 ## About The Project
 
-> This project demonstrates a simple...<br>
+> In this project we will build a SMS-based chatbot by creating a main agent and advisors agents<br>
 
 <div style="background: #272822; color: #f8f8f2; padding: 10px; border-radius: 8px;">
   <b> Technologies:</b> Python, Pandas, NumPy, Matplotlib, OpenAI API
